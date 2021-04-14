@@ -1,2 +1,2 @@
 local plr = game.Players.LocalPlayer
-plr:kick("You have been kicked jaja - qeo#7343")
+plr:kick("You have been kicked LOL get rekt - qeo#7343")
